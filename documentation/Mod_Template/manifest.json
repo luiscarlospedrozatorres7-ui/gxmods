@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "SMILE MOVIE SOUNDTRACK",
+    "description": "Soundtrack off the movie off 2022",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Blacky"
     },
-    "icons":
+    "icons":   "descarga(2).jfif
     {
-        "512": "icon_512.png"
+        "512": ""
     },
     "manifest_version": 3,
     "mod":
@@ -17,10 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "Trauma Loop.mp3"
             ],
             "browser_sounds":
             {
